@@ -1,3 +1,4 @@
+##LAB TITLE
 # Experiencing HTML Lab
 
 ## Learning Goals
